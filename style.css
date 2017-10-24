@@ -1,0 +1,97 @@
+body{
+	font-family: Arial;
+}
+
+#main-table{
+	padding: 10px;
+	border: 50px solid #E9E9E9;
+}
+
+table{
+	text-align: center;
+	border:	10px solid white;
+	background-color: white;
+}
+
+.small-text{
+	text-align: left;
+	font-size: 70%;
+}
+
+.abc{
+	font-size: 25px;
+	color: white;
+}
+
+.abc span{
+	border-left: 4px solid white; 
+	height:100px; 
+	padding: 10px;
+}
+
+.subheading{
+	border-top:2px solid #d7dce0;
+	border-bottom:2px solid #d7dce0;
+	font-size: 125%;
+	color:#436060;
+	padding: 10px 0 10px 0;
+}
+
+h3{
+	color:#0079c1;
+}
+
+a{
+	color: #0079c1
+}
+
+#main-body{
+	background-color: #E9E9E9;
+	border-top: 0px;
+}
+
+#main-body td{
+	background-color: white; 
+	border-style:solid;
+	border-color: #E9E9E9;
+}
+
+.section{
+	text-align: left;
+	align-content: center;
+	padding: 2%;
+}
+
+.section img{
+	float: left; 
+	padding: 1%; 
+	padding-right: 3%;
+}
+
+.section h3{
+	margin-top:12px; 
+	padding-left: 5px;
+}
+
+.section p{
+	margin-top: 2%;
+	font-size: 14px;
+}
+
+.section a{
+	text-decoration:none;
+	font-size: 14px;
+}
+
+.footer a{
+	padding-right: 30px;
+	padding-left: 7px;
+	text-decoration:none;
+	color:white;
+	font-size: 70%;
+}
+
+.footer span{
+	border-left: 2px solid white; 
+	padding: 5px;
+}
